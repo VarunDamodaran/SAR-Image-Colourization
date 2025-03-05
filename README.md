@@ -15,8 +15,4 @@ The model is trained on the Sentinel-1 dataset. Ensure you have the dataset prep
 ## Model Architecture
 - **Generator:** U-Net architecture
 - **Discriminator:** PatchGAN-based architecture
-- **Losses:** Adversarial loss and L1 loss
-
-## Results
-Include visual examples of SAR input and corresponding colorized output here.
 
