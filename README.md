@@ -109,6 +109,7 @@ This flowchart shows one step of the training cycle in the GAN framework:
          (Update G and D params)  
 </pre>
 
+Sample outputs:
 ![A sample of the output](assets/output_training.png)
 ## 🛠️ Tech Stack
 
